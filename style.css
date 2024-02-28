@@ -109,6 +109,7 @@ body {
 @keyframes fall {
     to {
         transform: translateY(130vh);
+        opacity: 0;
     }
 }
 
